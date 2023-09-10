@@ -29,7 +29,7 @@ The Generative AI ChatBot is an artificial intelligence-powered chatbot that gen
 
 ## Demo
 
-You can interact with a live demo of the Generative AI ChatBot at [https://your-demo-url.com](https://your-demo-url.com).
+You can interact with a live demo of the Generative AI ChatBot at [https://github.com/Rakesh3117/GenAiChatBot](https://github.com/Rakesh3117/GenAiChatBot).
 
 ## Getting Started
 
